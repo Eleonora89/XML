@@ -1,1 +1,7 @@
-
+<bug_report>
+<ID>tutu</ID>
+<Title>goods</Title>
+<Steps_to_reproduction>1_Зайтина_сайт_2_Найти_товар_3_Добавить_в_корзину_4_Оплатить_товар</Steps_to_reproduction>
+<Expected_result>оплата_прошла_и_товар_получен</Expected_result>
+<Actual_result>оплата_прошла_и_товар_получен<Actual_result>
+  </bug_report>
