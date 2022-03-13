@@ -1,9 +1,0 @@
-cat > ./new2.xml <<EOF
-<?xml version="1.0"?>
-<list>
-<item><Name/>Mitskevich Dmitry</item>
-<item><Age/>39</item>
-<item><Pets/>0</item>
-<item><Guba/>6000$ - да да, губа не треснет :)</item>
-</list>
-EOF
